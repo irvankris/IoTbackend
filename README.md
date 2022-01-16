@@ -9,7 +9,7 @@ perjalanan :
     yang mengirimkan nilai dari sensor internal ke MQTT Broker
     (mqtt_internaltemp_pub01_deepSleep.ino)
     
-    yang mengirimkan nilai dari sensor BME280 i2c, temperatur dan pressure, ke MQTT Broker
+    yang mengirimkan nilai dari sensor BMP280 i2c, temperatur dan pressure, ke MQTT Broker
     (mqtt_BMP280_pub01_deepSleep.ino)
 
 2. memanfaatkan MQTT broker public dan gratis, test.mosquitto.org. lalu menggunakan aplikasi MQTT Client (windows dan android)
