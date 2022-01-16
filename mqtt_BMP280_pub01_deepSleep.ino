@@ -10,7 +10,7 @@ number two, Think while its working.
 
 MQTT di ESP32.
 
-mem-publish sensor BME280 terhubung menggunakan I2C,
+mem-publish sensor BMP280 terhubung menggunakan I2C,
 - temperature
 - pressure
 
