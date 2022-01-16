@@ -35,8 +35,8 @@ void IRAM_ATTR resetModule(){
 
 
 // Replace the next variables with your SSID/Password combination
-//const char* ssid = "mySSID";
-//const char* password = "myWIFIpass";
+const char* ssid = "mySSID";
+const char* password = "myWIFIpass";
 
 
 
